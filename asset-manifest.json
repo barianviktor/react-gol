@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gol/static/css/main.e6f452c9.chunk.css",
+    "main.js": "/react-gol/static/js/main.e3952646.chunk.js",
+    "main.js.map": "/react-gol/static/js/main.e3952646.chunk.js.map",
+    "runtime-main.js": "/react-gol/static/js/runtime-main.c35b8401.js",
+    "runtime-main.js.map": "/react-gol/static/js/runtime-main.c35b8401.js.map",
+    "static/js/2.170e6451.chunk.js": "/react-gol/static/js/2.170e6451.chunk.js",
+    "static/js/2.170e6451.chunk.js.map": "/react-gol/static/js/2.170e6451.chunk.js.map",
+    "index.html": "/react-gol/index.html",
+    "precache-manifest.35f9f438f83361583f5580d14e1f5784.js": "/react-gol/precache-manifest.35f9f438f83361583f5580d14e1f5784.js",
+    "service-worker.js": "/react-gol/service-worker.js",
+    "static/css/main.e6f452c9.chunk.css.map": "/react-gol/static/css/main.e6f452c9.chunk.css.map",
+    "static/js/2.170e6451.chunk.js.LICENSE.txt": "/react-gol/static/js/2.170e6451.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c35b8401.js",
+    "static/js/2.170e6451.chunk.js",
+    "static/css/main.e6f452c9.chunk.css",
+    "static/js/main.e3952646.chunk.js"
+  ]
+}
